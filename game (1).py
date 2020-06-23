@@ -1,7 +1,4 @@
 """
-Jack Fitzgerald
-Final Project
-
 0aa 1bb 2cc
 3dd 4ee 5ff
 6gg 7hh 8ii
