@@ -1,7 +1,5 @@
-"""
-Naftali Panitz
-Final Project GUI
 
+"""
 0aa 1bb 2cc
 3dd 4ee 5ff
 6gg 7hh 8ii
@@ -244,7 +242,7 @@ class GameGUI:
         image_canvas['bg'] = 'light blue'
 
         # Image insert
-        image_file = PhotoImage(file = 'bu_bearcat.png')
+        image_file = PhotoImage(file = 'some_image.png')
         image_canvas.create_image(0,0, anchor = NW, image = image_file)
 
         # Start listener
